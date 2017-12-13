@@ -1,6 +1,6 @@
 ## Project-portfolio
 
-* Egorov Maksim
+#### Egorov Maksim
 * Поток 12.2017
 
 #### Для корректной работы требуется:
